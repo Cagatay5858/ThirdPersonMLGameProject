@@ -1,0 +1,36 @@
+diff --git a/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_0.uasset b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_0.uasset
+new file mode 100644
+index 0000000..e2f649e
+Binary files /dev/null and b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_0.uasset differ
+diff --git a/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_1.uasset b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_1.uasset
+new file mode 100644
+index 0000000..80aa092
+Binary files /dev/null and b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_1.uasset differ
+diff --git a/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_2.uasset b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_2.uasset
+new file mode 100644
+index 0000000..439ce03
+Binary files /dev/null and b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_2.uasset differ
+diff --git a/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_3.uasset b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_3.uasset
+new file mode 100644
+index 0000000..114b629
+Binary files /dev/null and b/Content/Fab/Pont_de_Flassans-sur-Issole/pont_de_flassans_sur_issole_texture_3.uasset differ
+diff --git a/Content/Knight/BP_Knight.uasset b/Content/Knight/BP_Knight.uasset
+index 0b2b79c..72f197e 100644
+Binary files a/Content/Knight/BP_Knight.uasset and b/Content/Knight/BP_Knight.uasset differ
+diff --git a/Content/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Cast_Montage.uasset b/Content/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Cast_Montage.uasset
+new file mode 100644
+index 0000000..fef46f4
+Binary files /dev/null and b/Content/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Cast_Montage.uasset differ
+diff --git a/Content/ParagonSevarog/Characters/Heroes/Sevarog/BP_Enemy.uasset b/Content/ParagonSevarog/Characters/Heroes/Sevarog/BP_Enemy.uasset
+index 69f10fb..45f602c 100644
+Binary files a/Content/ParagonSevarog/Characters/Heroes/Sevarog/BP_Enemy.uasset and b/Content/ParagonSevarog/Characters/Heroes/Sevarog/BP_Enemy.uasset differ
+diff --git a/Content/ParagonSevarog/Characters/Heroes/Sevarog/SevarogPlayerCharacter.uasset b/Content/ParagonSevarog/Characters/Heroes/Sevarog/SevarogPlayerCharacter.uasset
+index 116d7be..457ced9 100644
+Binary files a/Content/ParagonSevarog/Characters/Heroes/Sevarog/SevarogPlayerCharacter.uasset and b/Content/ParagonSevarog/Characters/Heroes/Sevarog/SevarogPlayerCharacter.uasset differ
+diff --git a/Content/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.uasset b/Content/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.uasset
+index 67acbcc..6f5fde1 100644
+Binary files a/Content/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.uasset and b/Content/ParagonSevarog/Characters/Heroes/Sevarog/Sevarog_AnimBlueprint.uasset differ
+diff --git a/Content/__ExternalActors__/Map/M_BetweenWaterfalls/D/TK/Y28894PTRZJ3LCMKYTZ2P7.uasset b/Content/__ExternalActors__/Map/M_BetweenWaterfalls/D/TK/Y28894PTRZJ3LCMKYTZ2P7.uasset
+new file mode 100644
+index 0000000..c7353e7
+Binary files /dev/null and b/Content/__ExternalActors__/Map/M_BetweenWaterfalls/D/TK/Y28894PTRZJ3LCMKYTZ2P7.uasset differ
